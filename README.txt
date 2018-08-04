@@ -1,9 +1,9 @@
 # Exercice_1_OC
 Exercice 1 du cours de OC sur GIT 
 
-Prsentation du projet :
+Pr√©sentation du projet :
 
-Afin de pouvoir utiliser convenablement GIT et GITHUB pour permettre le dÈvellopement d'applications ‡ plusieur, je me suis lancÈ dans le tuto prÈvu ‡ cet effet sur OC :)
+Afin de pouvoir utiliser convenablement GIT et GITHUB pour permettre le d√©velopement d'applications en groupe, je me suis lanc√© dans le tuto pr√©vu √† cet effet sur OC :)
 
 Merci de me noter au plus juste 
 
